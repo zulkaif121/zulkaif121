@@ -36,7 +36,8 @@
 
 ## Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulkaif121&bg_color=0d1117&color=00ffa3&line=7f00ff&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulkaif121&theme=react-dark" />
+
 </p>
 
 ---
